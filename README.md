@@ -1,19 +1,19 @@
 This project SM-Example 
 
 ## Contents
-- [Troubleshooting]
-  - [`npm install`]
-  - [`npm start`]
-  - [`npm test` ]
-  - [`npm run build`]
-  - [`npm run build`]
+- Troubleshooting
+  - `npm install`
+  - `npm start`
+  - `npm test` 
+  - `npm run build`
+  - `npm run build`
 
 ## Folder Structure
 
 After creation, your project should look like this:
 
 ```
-my-app/
+react-sm-example/
   README.md
   node_modules/
   package.json
