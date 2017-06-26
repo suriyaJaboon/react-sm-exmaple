@@ -6,7 +6,6 @@ This project SM-Example
   - `npm start`
   - `npm test` 
   - `npm run build`
-  - `npm run build`
 
 ## Folder Structure
 
